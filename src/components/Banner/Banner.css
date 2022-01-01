@@ -1,0 +1,35 @@
+.background{
+    /* background-image: url("banner.jpg"); */
+    background-color: black;
+    opacity: 0.5;
+}
+.background:hover{
+    opacity: 1;
+}
+
+.background img{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+}
+.background h3{
+    color: white;
+}
+
+.background h4{
+    color: red;
+}
+.background h3, h4{
+    margin-top: 80px;
+}
+
+/* .atachat a{
+    margin-top: 43px;
+    margin-right: -300px;
+}
+.atachment a{
+    margin-left: -400px;
+}
+.down{
+    margin-top: 50px;
+} */
